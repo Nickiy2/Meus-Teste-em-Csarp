@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\bin\Debug\net8.0\Composição_Ex01.exe
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\bin\Debug\net8.0\Composição_Ex01.deps.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\bin\Debug\net8.0\Composição_Ex01.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\bin\Debug\net8.0\Composição_Ex01.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\bin\Debug\net8.0\Composição_Ex01.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\Composição_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\Composição_Ex01.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\Composição_Ex01.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\Composição_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\Composição_Ex01.sourcelink.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\Composição_Ex01.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\refint\Composição_Ex01.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\Composição_Ex01.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\Composição_Ex01.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Composição_Ex01\Composição_Ex01\obj\Debug\net8.0\ref\Composição_Ex01.dll

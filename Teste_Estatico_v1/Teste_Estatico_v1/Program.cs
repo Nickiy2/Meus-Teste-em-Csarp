@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Globalization;
 using Teste_Estatico_v1;
 
@@ -28,6 +30,6 @@ class Program
 
         double valor = ConversorDeMoesdas.DolarParaReal(cotacao, quantia);
 
-        Console.WriteLine($"Valor a ser pago em reais = {valor.ToString("F2", CultureInfo.InvariantCulture)}");
+        Console.WriteLine($"Valor a ser pago em reais = {valor.ToString("F2", CultureInfo.InvariantCulture)}");  
     }
 }

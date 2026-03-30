@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System.ComponentModel.Design;
+﻿using System.ComponentModel.Design;
 using System.Runtime.CompilerServices;
 using System.Globalization;
 using System.Security.Cryptography.X509Certificates;
@@ -12,9 +11,9 @@ Console.WriteLine("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
 
 int X, Y, Z;
 X = 30;
-Console.WriteLine("Por Favor digite um número para somar com um segindo número: ");
+Console.WriteLine("Por Favor digite um número para somar com um segundo número: ");
 Y = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("\nPor Favor digite outo número: ");
+Console.WriteLine("\nPor Favor digite outro número: ");
 Z = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"\nVamos oferecer um número para você: {X}");
 Console.WriteLine("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");

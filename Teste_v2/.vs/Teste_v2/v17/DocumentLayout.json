@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_v2\\teste_v2\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|solutionrelative:teste_v2\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_v2\\teste_v2\\exercicio_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|solutionrelative:teste_v2\\exercicio_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_v2\\teste_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|solutionrelative:teste_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_v2\\teste_v2\\exercicio_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|solutionrelative:teste_v2\\exercicio_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_v2\\teste_v2\\exercicio_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|solutionrelative:teste_v2\\exercicio_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_v2\\teste_v2\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|solutionrelative:teste_v2\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D753895E-7B3E-40B9-8FE9-3464C495B13A}|Teste_v2\\Teste_v2.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_v2\\teste_v2\\pessoa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,39 +38,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Exercicio_3.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\Teste_v2\\Exercicio_3.cs",
               "RelativeDocumentMoniker": "Teste_v2\\Exercicio_3.cs",
               "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\Teste_v2\\Exercicio_3.cs",
               "RelativeToolTip": "Teste_v2\\Exercicio_3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T21:55:45.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Exercicio_2.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\Teste_v2\\Exercicio_2.cs",
               "RelativeDocumentMoniker": "Teste_v2\\Exercicio_2.cs",
               "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\Teste_v2\\Exercicio_2.cs",
               "RelativeToolTip": "Teste_v2\\Exercicio_2.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T21:55:21.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Retangulo.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\Teste_v2\\Retangulo.cs",
               "RelativeDocumentMoniker": "Teste_v2\\Retangulo.cs",
               "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\Teste_v2\\Retangulo.cs",
               "RelativeToolTip": "Teste_v2\\Retangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T21:54:41.627Z",
               "EditorCaption": ""
@@ -83,27 +83,23 @@
               "RelativeDocumentMoniker": "Teste_v2\\Pessoa1.cs",
               "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\Teste_v2\\Pessoa1.cs",
               "RelativeToolTip": "Teste_v2\\Pessoa1.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T21:53:51.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\Teste_v2\\Program.cs",
               "RelativeDocumentMoniker": "Teste_v2\\Program.cs",
               "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_v2\\Teste_v2\\Program.cs",
               "RelativeToolTip": "Teste_v2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwGgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T21:50:50.14Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

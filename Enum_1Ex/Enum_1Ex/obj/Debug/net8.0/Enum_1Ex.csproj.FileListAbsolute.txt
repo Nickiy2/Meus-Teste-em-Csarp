@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\bin\Debug\net8.0\Enum_1Ex.exe
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\bin\Debug\net8.0\Enum_1Ex.deps.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\bin\Debug\net8.0\Enum_1Ex.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\bin\Debug\net8.0\Enum_1Ex.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\bin\Debug\net8.0\Enum_1Ex.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\Enum_1Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\Enum_1Ex.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\Enum_1Ex.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\Enum_1Ex.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\Enum_1Ex.sourcelink.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\Enum_1Ex.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\refint\Enum_1Ex.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\Enum_1Ex.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\Enum_1Ex.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Enum_1Ex\Enum_1Ex\obj\Debug\net8.0\ref\Enum_1Ex.dll

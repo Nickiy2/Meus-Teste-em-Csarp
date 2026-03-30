@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{115362FE-C287-4912-A2AB-39BC43D53E82}|Teste_Estatico_v1\\Teste_Estatico_v1.csproj|solutionrelative:teste_estatico_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{115362FE-C287-4912-A2AB-39BC43D53E82}|Teste_Estatico_v1\\Teste_Estatico_v1.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_estatico_v1\\teste_estatico_v1\\conversordemoesdas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{115362FE-C287-4912-A2AB-39BC43D53E82}|Teste_Estatico_v1\\Teste_Estatico_v1.csproj|solutionrelative:teste_estatico_v1\\conversordemoesdas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{115362FE-C287-4912-A2AB-39BC43D53E82}|Teste_Estatico_v1\\Teste_Estatico_v1.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_estatico_v1\\teste_estatico_v1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{115362FE-C287-4912-A2AB-39BC43D53E82}|Teste_Estatico_v1\\Teste_Estatico_v1.csproj|solutionrelative:teste_estatico_v1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115362FE-C287-4912-A2AB-39BC43D53E82}|Teste_Estatico_v1\\Teste_Estatico_v1.csproj|c:\\users\\lenovo\\onedrive\\\u00E1rea de trabalho\\para o github\\teste_estatico_v1\\teste_estatico_v1\\conversordemoesdas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115362FE-C287-4912-A2AB-39BC43D53E82}|Teste_Estatico_v1\\Teste_Estatico_v1.csproj|solutionrelative:teste_estatico_v1\\conversordemoesdas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,29 +30,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConversorDeMoesdas.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_Estatico_v1\\Teste_Estatico_v1\\ConversorDeMoesdas.cs",
               "RelativeDocumentMoniker": "Teste_Estatico_v1\\ConversorDeMoesdas.cs",
               "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_Estatico_v1\\Teste_Estatico_v1\\ConversorDeMoesdas.cs",
               "RelativeToolTip": "Teste_Estatico_v1\\ConversorDeMoesdas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T22:11:19.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T22:11:19.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_Estatico_v1\\Teste_Estatico_v1\\Calculadora.cs",
               "RelativeDocumentMoniker": "Teste_Estatico_v1\\Calculadora.cs",
               "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_Estatico_v1\\Teste_Estatico_v1\\Calculadora.cs",
               "RelativeToolTip": "Teste_Estatico_v1\\Calculadora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T22:08:19.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T22:08:19.493Z"
             },
             {
               "$type": "Document",
@@ -62,14 +60,10 @@
               "RelativeDocumentMoniker": "Teste_Estatico_v1\\Program.cs",
               "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u00C1rea de Trabalho\\Para o GitHub\\Teste_Estatico_v1\\Teste_Estatico_v1\\Program.cs",
               "RelativeToolTip": "Teste_Estatico_v1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABvAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T22:05:10.012Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

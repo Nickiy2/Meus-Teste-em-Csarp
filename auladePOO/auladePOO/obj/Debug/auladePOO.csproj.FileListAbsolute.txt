@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\bin\Debug\auladePOO.exe.config
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\bin\Debug\auladePOO.exe
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\bin\Debug\auladePOO.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\obj\Debug\auladePOO.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\obj\Debug\auladePOO.Form1.resources
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\obj\Debug\auladePOO.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\obj\Debug\auladePOO.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\obj\Debug\auladePOO.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\obj\Debug\auladePOO.exe
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\auladePOO\auladePOO\obj\Debug\auladePOO.pdb

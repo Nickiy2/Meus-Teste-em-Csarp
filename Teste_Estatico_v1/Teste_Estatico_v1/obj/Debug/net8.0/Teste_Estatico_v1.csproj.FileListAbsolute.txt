@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\bin\Debug\net8.0\Teste_Estatico_v1.exe
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\bin\Debug\net8.0\Teste_Estatico_v1.deps.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\bin\Debug\net8.0\Teste_Estatico_v1.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\bin\Debug\net8.0\Teste_Estatico_v1.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\bin\Debug\net8.0\Teste_Estatico_v1.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\Teste_Estatico_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\Teste_Estatico_v1.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\Teste_Estatico_v1.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\Teste_Estatico_v1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\Teste_Estatico_v1.sourcelink.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\Teste_Estatico_v1.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\refint\Teste_Estatico_v1.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\Teste_Estatico_v1.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\Teste_Estatico_v1.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Teste_Estatico_v1\Teste_Estatico_v1\obj\Debug\net8.0\ref\Teste_Estatico_v1.dll

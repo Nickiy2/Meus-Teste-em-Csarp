@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\bin\Debug\net8.0\Testes_Alternativos.exe
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\bin\Debug\net8.0\Testes_Alternativos.deps.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\bin\Debug\net8.0\Testes_Alternativos.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\bin\Debug\net8.0\Testes_Alternativos.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\bin\Debug\net8.0\Testes_Alternativos.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\Testes_Alternativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\Testes_Alternativos.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\Testes_Alternativos.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\Testes_Alternativos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\Testes_Alternativos.sourcelink.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\Testes_Alternativos.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\refint\Testes_Alternativos.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\Testes_Alternativos.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\Testes_Alternativos.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Testes_Alternativos\Testes_Alternativos\obj\Debug\net8.0\ref\Testes_Alternativos.dll

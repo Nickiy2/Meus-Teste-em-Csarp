@@ -44,8 +44,8 @@ class Program
                 Console.WriteLine(i + ": " + vect[i]);
             }
         }
-
-
+        
+        
         //Exercio 2º com listas
 
         //Criação da lista de funcionários
@@ -94,7 +94,7 @@ class Program
             Console.WriteLine(obj);
         }
 
-
+        
         //Exercio 3º com matrizes
 
         //Entrada de dados para criar a matriz digitando o número de linhas e colunas
