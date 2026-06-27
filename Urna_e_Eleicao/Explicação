@@ -1,0 +1,8 @@
+Nesse exercicio eu peço que você crie na sua maquina um arquivo do tipo txt, dentro do arquivo você terá que por na seguinte ordem:
+"Nome,Votos"
+Exemplo: 
+Arthur Lira,30
+No decorrer fiz um teste com await se quiser tirar ou melhora o código sinta-se a vontade dentro do try eu uso um using e chamo o
+StreamReader por que não vou precisar fecha-lo manualmente depois então por favor se alterar essa parte tome cuidado!
+Caso queira mudar para na hora de printar mude a ordem sendo porcetagem ou a colocação de 1°, 2°, 3° e etc.
+Fique avontade já que fiz bem simples
