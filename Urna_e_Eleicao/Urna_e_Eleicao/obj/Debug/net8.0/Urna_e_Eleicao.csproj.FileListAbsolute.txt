@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\bin\Debug\net8.0\Urna_e_Eleicao.exe
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\bin\Debug\net8.0\Urna_e_Eleicao.deps.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\bin\Debug\net8.0\Urna_e_Eleicao.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\bin\Debug\net8.0\Urna_e_Eleicao.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\bin\Debug\net8.0\Urna_e_Eleicao.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\Urna_e_Eleicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\Urna_e_Eleicao.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\Urna_e_Eleicao.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\Urna_e_Eleicao.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\Urna_e_Eleicao.sourcelink.json
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\Urna_e_Eleicao.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\refint\Urna_e_Eleicao.dll
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\Urna_e_Eleicao.pdb
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\Urna_e_Eleicao.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Área de Trabalho\Para o GitHub\Urna_e_Eleicao\Urna_e_Eleicao\obj\Debug\net8.0\ref\Urna_e_Eleicao.dll
